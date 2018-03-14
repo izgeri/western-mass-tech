@@ -37,7 +37,7 @@ This file contains links to local tech-related resources.
 - [Western Mass tech job listings](job-listings.md)
 - [Jobs in the Valley](http://jobsinthevalley.com/)
 - [Built in Boston](https://www.builtinboston.com) - Boston tech companies, with information on remote-friendly orgs
-- [Hidden Tech](http://www.westernmassedc.com/boston_area_industrial_clusters/hiddentech/) - this is a [mailing list](), but people frequently use it to post job openings
+- [Hidden Tech](http://www.westernmassedc.com/boston_area_industrial_clusters/hiddentech/) - this is a [mailing list](#groups--email-lists), but people frequently use it to post job openings
 
 ### Local funding resources / incubators
 
