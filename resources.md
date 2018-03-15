@@ -13,6 +13,7 @@ This file contains links to local tech-related resources.
 - [NERD Summit](https://nerdsummit.org/) - annual conference, typically held at UMass Amherst
 
 ### Geek/Nerd Meetups / Events
+
 - [Geek Group of Western Mass Meetup Group](https://www.meetup.com/TheGeekGroupofWesternMass/events/) has weekly meetings
 - [Nerd Nite Noho](https://noho.nerdnite.com/)
 
@@ -58,7 +59,7 @@ This file contains links to local tech-related resources.
 ### Groups / email lists
 
 - [Hidden Tech](http://www.westernmassedc.com/boston_area_industrial_clusters/hiddentech/)
-- [Pioneer Valley Devs Slack](https://pioneervalleydevs.slack.com/)
+- [NERD Slack](https://nerdslack.herokuapp.com/) - Slack for New England Regional Developers
 
 ### Other resource lists
 
