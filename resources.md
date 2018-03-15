@@ -1,6 +1,6 @@
 This file contains links to local tech-related resources.
 
-### Meetups / Events
+### Tech Meetups / Events
 
 - [Western Mass Developers / Designers Meetup Group](https://www.meetup.com/nohowebdev)
   - Northampton Webdive - After work
@@ -8,10 +8,13 @@ This file contains links to local tech-related resources.
   - Monthly Full Stack Meetup
   - Wordpress Developers and Admins
   - Agile Methods Meetup
-- [Geek Group of Western Mass Meetup Group](https://www.meetup.com/TheGeekGroupofWesternMass/events/) has weekly meetings
 - [Western Mass Development Technology Users Group](https://www.meetup.com/Western-Mass-Development-Technology-Users-Group/) has a monthly meetings
 - [Western Mass Statistics and Data Science Meetup Group](https://www.meetup.com/Pioneer-Valley-and-Five-College-R-Statistical-Meetup/)
 - [NERD Summit](https://nerdsummit.org/) - annual conference, typically held at UMass Amherst
+
+### Geek/Nerd Meetups / Events
+
+- [Geek Group of Western Mass Meetup Group](https://www.meetup.com/TheGeekGroupofWesternMass/events/) has weekly meetings
 - [Nerd Nite Noho](https://noho.nerdnite.com/)
 
 ### Coworking spaces
