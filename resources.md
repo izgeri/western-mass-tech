@@ -21,6 +21,7 @@ This file contains links to local tech-related resources.
 
 - [Click Workspace](http://clickworkspace.org/) in Northampton
 - [Another Castle](https://pvgdev.cobot.me/) in Greenfield
+- [Greenspace CoWork](https://greenspacecowork.spaces.nexudus.com/en) in Greenfield
 - [Easthampton Co.Lab](http://www.easthamptoncolab.org/) in Easthampton
 - [CoWork Springfield](http://coworkspringfield.com/) in Springfield
 - [Commons Coworking](http://www.commonscoworking.com/) in Williamsburg
