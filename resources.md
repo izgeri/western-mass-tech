@@ -4,7 +4,7 @@ This file contains links to local tech-related resources.
 
 - [Western Mass Developers / Designers Meetup Group](https://www.meetup.com/nohowebdev)
   - Northampton Webdive - After work
-  - Hack for Western Mass
+  - [Hack for Western Mass](http://hackforwesternmass.org)
   - Monthly Full Stack Meetup
   - Wordpress Developers and Admins
   - Agile Methods Meetup
@@ -16,6 +16,7 @@ This file contains links to local tech-related resources.
 
 - [Geek Group of Western Mass Meetup Group](https://www.meetup.com/TheGeekGroupofWesternMass/events/) has weekly meetings
 - [Nerd Nite Noho](https://noho.nerdnite.com/)
+- [SciTech Cafe](https://scitechcafe.wordpress.com/)
 
 ### Coworking spaces
 
@@ -35,6 +36,8 @@ This file contains links to local tech-related resources.
 ### Local tech ed resources
 
 - [Holyoke Codes](https://holyokecodes.org/) - educational classes for kids and adults alike, often for free
+- [Makers @ Amherst Media](https://amherstmedia.org/makers) - meet up, work on projects, and learn together
+- [Tech Foundry](http://www.thetechfoundry.org/) - IT workforce training
 
 ### Local job listings
 
