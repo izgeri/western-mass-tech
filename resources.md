@@ -39,6 +39,7 @@ This file contains links to local tech-related resources.
 - [Holyoke Codes](https://holyokecodes.org/) - educational classes for kids and adults alike, often for free
 - [Makers @ Amherst Media](https://amherstmedia.org/makers) - meet up, work on projects, and learn together
 - [Tech Foundry](http://www.thetechfoundry.org/) - IT workforce training
+- [Girls Inc of Holyoke](http://www.girlsincholyoke.org/) - tech ed for girls from 5-18
 
 ### Local job listings
 
