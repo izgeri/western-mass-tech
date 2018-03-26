@@ -64,7 +64,7 @@ This file contains links to local tech-related resources.
 
 ### Groups / email lists
 
-- [Hidden Tech](http://www.westernmassedc.com/boston_area_industrial_clusters/hiddentech/)
+- [Hidden Tech](http://www.westernmassedc.com/boston_area_industrial_clusters/hiddentech/) - **Registration page currently unavailable**
 - [NERD Slack](https://nerdslack.herokuapp.com/) - Slack for New England Regional Developers
 
 ### Other resource lists
