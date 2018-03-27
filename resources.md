@@ -6,13 +6,14 @@ This file contains links to local tech-related resources.
   - Northampton Webdive - After work
   - [Hack for Western Mass](http://hackforwesternmass.org)
   - Monthly Full Stack Meetup
-  - WordPress Developers and Admins
+  - Wordpress Developers and Admins
   - Agile Methods Meetup
   - Western Mass Drupal Users Group
 - [Western Mass Development Technology Users Group](https://www.meetup.com/Western-Mass-Development-Technology-Users-Group/) has monthly meetings
 - [Western Mass Statistics and Data Science Meetup Group](https://www.meetup.com/Pioneer-Valley-and-Five-College-R-Statistical-Meetup/)
-- [Amherst Security Meetup Group](https://www.meetup.com/AmherstSec) has monthly meetings
-- [NERD Summit](https://nerdsummit.org/) - annual conference, typically held at UMass Amherst
+- [NERD Summit](https://nerdsummit.org/)  - annual conference, typically held at UMass Amherst
+- [Atlassian User Group](https://aug.atlassian.com/northampton/)  - meets every few months
+- [Amherst Security Meetup Group](https://www.meetup.com/AmherstSec) - has monthly meetings
 
 ### Geek/Nerd Meetups / Events
 
