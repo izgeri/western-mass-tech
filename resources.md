@@ -4,27 +4,29 @@ This file contains links to local tech-related resources.
 
 - [Western Mass Developers / Designers Meetup Group](https://www.meetup.com/nohowebdev)
   - Northampton Webdive - After work
-  - Hack for Western Mass
+  - [Hack for Western Mass](http://hackforwesternmass.org)
   - Monthly Full Stack Meetup
   - Drupal User Group
   - Wordpress Developers and Admins
   - Agile Methods Meetup
-- [Western Mass Development Technology Users Group](https://www.meetup.com/Western-Mass-Development-Technology-Users-Group/) has a monthly meetings
+  - Western Mass Drupal Users Group
+- [Western Mass Development Technology Users Group](https://www.meetup.com/Western-Mass-Development-Technology-Users-Group/) has monthly meetings
 - [Western Mass Statistics and Data Science Meetup Group](https://www.meetup.com/Pioneer-Valley-and-Five-College-R-Statistical-Meetup/)
-- [NERD Summit](https://nerdsummit.org/)
-  - annual conference, typically held at UMass Amherst
-- [Atlassian User Group](https://aug.atlassian.com/northampton/)
-  - Meets every few months
+- [NERD Summit](https://nerdsummit.org/)  - annual conference, typically held at UMass Amherst
+- [Atlassian User Group](https://aug.atlassian.com/northampton/)  - Meets every few months
+- [Amherst Security Meetup Group](https://www.meetup.com/AmherstSec) - has monthly meetings
 
 ### Geek/Nerd Meetups / Events
 
 - [Geek Group of Western Mass Meetup Group](https://www.meetup.com/TheGeekGroupofWesternMass/events/) has weekly meetings
 - [Nerd Nite Noho](https://noho.nerdnite.com/)
+- [SciTech Cafe](https://scitechcafe.wordpress.com/)
 
 ### Coworking spaces
 
 - [Click Workspace](http://clickworkspace.org/) in Northampton
 - [Another Castle](https://pvgdev.cobot.me/) in Greenfield
+- [Greenspace CoWork](https://greenspacecowork.spaces.nexudus.com/en) in Greenfield
 - [Easthampton Co.Lab](http://www.easthamptoncolab.org/) in Easthampton
 - [CoWork Springfield](http://coworkspringfield.com/) in Springfield
 - [Commons Coworking](http://www.commonscoworking.com/) in Williamsburg
@@ -38,6 +40,9 @@ This file contains links to local tech-related resources.
 ### Local tech ed resources
 
 - [Holyoke Codes](https://holyokecodes.org/) - educational classes for kids and adults alike, often for free
+- [Makers @ Amherst Media](https://amherstmedia.org/makers) - meet up, work on projects, and learn together
+- [Tech Foundry](http://www.thetechfoundry.org/) - IT workforce training
+- [Girls Inc of Holyoke](http://www.girlsincholyoke.org/) - tech ed for girls from 5-18
 
 ### Local job listings
 
@@ -62,7 +67,7 @@ This file contains links to local tech-related resources.
 
 ### Groups / email lists
 
-- [Hidden Tech](http://www.westernmassedc.com/boston_area_industrial_clusters/hiddentech/)
+- [Hidden Tech](http://www.westernmassedc.com/boston_area_industrial_clusters/hiddentech/) - **Registration page currently unavailable**
 - [NERD Slack](https://nerdslack.herokuapp.com/) - Slack for New England Regional Developers
 
 ### Other resource lists
