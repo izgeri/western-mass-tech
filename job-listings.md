@@ -1,6 +1,9 @@
 This file contains listings for current job openings in western Mass. The positions are listed with the most recently posted at the top. At the [bottom](#template) is a template for new postings.
 
-
+- 3/27/18 MachineMetrics, Northampton - **DevOps Engineer**
+  - Being the resident AWS Security expert. Designing and building services to provision and maintain fleet of edge devices used for machine data collection. Owning and supporting AWS infrastructure and tools. Developing the tools that help developers get their job done.
+  - [More Info / Application Instructions]
+(https://hire.withgoogle.com/public/jobs/machinemetricscom/view/P_AAAAAAEAAADNPSzm_3gyHA)
 - 3/21/18 The Alchemy Fund, Amherst, MA - **Computer Vision Engineer**
   - Signal processing from a noisy, weak input – e.g. noise reduction, pixel transformation. Work alongside a data scientist, who would process the output signal. Clear and immediate market applications if we can get it working. Would be perfect as project work for a CS graduate student in the field.
   - [More Info / Application Instructions](https://drive.google.com/file/d/0B3ll_mWRP1BvSmUwZzFKbS00SHJWNmV3bjlNQXRJVFA4aXc0/view?usp=sharing)
