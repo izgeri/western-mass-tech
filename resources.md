@@ -6,7 +6,7 @@ This file contains links to local tech-related resources.
   - Northampton Webdive - After work
   - [Hack for Western Mass](http://hackforwesternmass.org)
   - Monthly Full Stack Meetup
-  - Wordpress Developers and Admins
+  - WordPress Developers and Admins
   - Agile Methods Meetup
   - Western Mass Drupal Users Group
 - [Western Mass Development Technology Users Group](https://www.meetup.com/Western-Mass-Development-Technology-Users-Group/) has monthly meetings
