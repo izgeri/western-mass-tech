@@ -22,6 +22,7 @@ This file contains links to local tech-related resources.
 - [Geek Group of Western Mass Meetup Group](https://www.meetup.com/TheGeekGroupofWesternMass/events/) has weekly meetings
 - [Nerd Nite Noho](https://noho.nerdnite.com/)
 - [SciTech Cafe](https://scitechcafe.wordpress.com/)
+- [OEB Science Cafe](https://oebsciencecafe.org/about/)
 
 ### Coworking spaces
 
