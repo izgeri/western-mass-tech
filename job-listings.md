@@ -18,7 +18,7 @@ This file contains listings for current job openings in western Mass. The positi
   - https://www.vidmob.com/software-engineer/
 - 3/17/18 CyberArk, Newton, MA or REMOTE - **Software Engineer**
   - Join the Conjur team at CyberArk and work on OSS softare to help make the lives of your DevOps colleagues easier! We code in Ruby, Golang, and JS and use some of the most popular DevOps tools, like Jenkins, K8s, Ansible, Puppet, and more!
-  - conjur.org, [our hiring puzzle](http://conjur-dev-puzzle-website.herokuapp.com)|
+  - conjur.org, [our hiring puzzle](http://conjur-dev-puzzle-website.herokuapp.com)
 - 3/15/18 MachineMetrics, Northampton - **Senior DevOps Engineer**
   - Being the resident AWS Security expert. Designing and building services to provision and maintain fleet of edge devices used for machine data collection. Owning and supporting AWS infrastructure and tools. Developing the tools that help developers get their job done.
   - [More Info / Application Instructions](https://hire.withgoogle.com/public/jobs/machinemetricscom/view/P_AAAAAAEAAADNPSzm_3gyHA)
