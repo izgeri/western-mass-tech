@@ -16,6 +16,7 @@ This file contains links to local tech-related resources.
 - [NERD Summit](https://nerdsummit.org/)  - annual conference, typically held at UMass Amherst
 - [Atlassian User Group](https://aug.atlassian.com/northampton/)  - meets every few months
 - [Amherst Security Meetup Group](https://www.meetup.com/AmherstSec) - has monthly meetings
+- [Amherst Computer Programming Meetup](https://www.meetup.com/Amherst-Computer-Programming-Meetup/) - has monthly meetings
 
 ### Geek/Nerd Meetups / Events
 
