@@ -9,6 +9,7 @@ This file contains links to local tech-related resources.
   - WordPress Developers and Admins
   - Agile Methods Meetup
   - Western Mass Drupal Users Group
+- [Northampton WordPress Meetup](https://www.meetup.com/Northampton-WordPress-Meetup)  
 - [Western Mass Development Technology Users Group](https://www.meetup.com/Western-Mass-Development-Technology-Users-Group/) has monthly meetings
 - [Western Mass Statistics and Data Science Meetup Group](https://www.meetup.com/Pioneer-Valley-and-Five-College-R-Statistical-Meetup/)
 - [Pioneer Valley Game Developers (PVGD)](https://www.meetup.com/pioneer-valley-game-developers)
