@@ -35,6 +35,7 @@ This file contains links to local tech-related resources.
 - [Commons Coworking](http://www.commonscoworking.com/) in Williamsburg
 - [Amherst Works](https://amherstworks.io/) in Amherst
 - [Cloud 85](http://www.cloud85northadams.com/) in North Adams
+- [Framework Pittsfield Coworking](https://pittsfieldcoworking.com/) in Pittsfield
 
 ### Local tech recruiters
 
