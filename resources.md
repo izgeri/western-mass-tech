@@ -17,6 +17,7 @@ This file contains links to local tech-related resources.
 - [Atlassian User Group](https://aug.atlassian.com/northampton/)  - meets every few months
 - [Amherst Security Meetup Group](https://www.meetup.com/AmherstSec) - has monthly meetings
 - [Amherst Computer Programming Meetup](https://www.meetup.com/Amherst-Computer-Programming-Meetup/) - has monthly meetings
+- [Berkshire County Technology Group](https://www.meetup.com/Berkshire-County-Technology-Group/)
 
 ### Geek/Nerd Meetups / Events
 
@@ -25,17 +26,24 @@ This file contains links to local tech-related resources.
 - [SciTech Cafe](https://scitechcafe.wordpress.com/)
 - [OEB Science Cafe](https://oebsciencecafe.org/about/)
 
+### Tech Makerspaces
+
+- [Make-It Springfield](http://www.makeitspringfield.org/)
+  - Classes in cooking, gardening, language, sewing, fiber arts, UAVs, arduino coding, bike repair, writing and 3-D printing
+- [Makers at Amherst Media](https://amherstmedia.org/makers)
+  - Open Drop-in hours on Wednesdays at 5pm, occasional community events
+
 ### Coworking spaces
 
-- [Click Workspace](http://clickworkspace.org/) in Northampton
-- [Another Castle](https://pvgdev.cobot.me/) in Greenfield
-- [Greenspace CoWork](https://greenspacecowork.spaces.nexudus.com/en) in Greenfield
-- [Easthampton Co.Lab](http://www.easthamptoncolab.org/) in Easthampton
-- [CoWork Springfield](http://coworkspringfield.com/) in Springfield
-- [Commons Coworking](http://www.commonscoworking.com/) in Williamsburg
 - [Amherst Works](https://amherstworks.io/) in Amherst
+- [Another Castle](https://pvgdev.cobot.me/) in Greenfield
+- [Click Workspace](http://clickworkspace.org/) in Northampton
 - [Cloud 85](http://www.cloud85northadams.com/) in North Adams
+- [Commons Coworking](http://www.commonscoworking.com/) in Williamsburg
+- [CoWork Springfield](http://coworkspringfield.com/) in Springfield
+- [Easthampton Co.Lab](http://www.easthamptoncolab.org/) in Easthampton
 - [Framework Pittsfield Coworking](https://pittsfieldcoworking.com/) in Pittsfield
+- [Greenspace CoWork](https://greenspacecowork.spaces.nexudus.com/en) in Greenfield
 
 ### Local tech recruiters
 
