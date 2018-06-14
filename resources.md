@@ -32,6 +32,8 @@ This file contains links to local tech-related resources.
   - Classes in cooking, gardening, language, sewing, fiber arts, UAVs, arduino coding, bike repair, writing and 3-D printing
 - [Makers at Amherst Media](https://amherstmedia.org/makers)
   - Open Drop-in hours on Wednesdays at 5pm, occasional community events
+- [North Adams Maker's Mill](https://northadamsmakersmill.org/)
+  - Classes in fiber arts and printmaking - screen prining, letterpress and relief printing, etching press.
 
 ### Coworking spaces
 
@@ -67,6 +69,7 @@ This file contains links to local tech-related resources.
 
 - [Valley Venture Mentors](http://www.valleyventurementors.org/)
 - [Launch413](https://www.launch413.com/)
+- [Lever](http://leverinc.org/)
 - [The Alchemy Fund](http://www.alchemy-fund.com/)
 - [TechSpring](http://www.techspringhealth.org/) - focusing on helping innovators in Health IT
 - [Orange Innovation Center](https://www.orange-innovation.com/)
