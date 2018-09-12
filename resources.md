@@ -4,7 +4,7 @@ This file contains links to local tech-related resources.
 
 - [Western Mass Developers / Designers Meetup Group](https://www.meetup.com/nohowebdev)
   - Northampton Webdive - After work
-  - [Hack for Western Mass](http://hackforwesternmass.org)
+  - [Hack for Western Mass](http://hackforwesternmass.github.io)
   - Monthly Full Stack Meetup
   - WordPress Developers and Admins
   - Agile Methods Meetup
