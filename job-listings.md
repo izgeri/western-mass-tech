@@ -1,6 +1,36 @@
 This file contains listings for current job openings in western Mass. The positions are listed with the most recently posted at the top. At the [bottom](#template) is a template for new postings.
 
+- 9/21/18 Neurala, Inc., Northampton (or Boston), MA - **Mobile Developer for AI Frameworks**
 
+  Work with a team on cutting-edge Machine Learning technology! We are looking for a productive SW developer to:
+  - Maintain and further develop the Neurala AI SDK for iOS and Android
+  - Implement mobile AI applications with the Neurala SDK as demos and for client projects
+  - Optimize the SDK performance on a variety of mobile platforms
+  - https://www.neurala.com/about/careers
+- 9/21/18 Neurala, Inc., Northampton (or Boston), MA - **C++ Developer**
+
+  Work with a team on cutting-edge Machine Learning technology! We are looking for a productive SW developer to:
+  - Further develop the Neurala AI SDK for a variety of Linux-powered PC and embedded platforms 
+  - Help us optimize our build systems for expanding scope of target hardware configurations 
+  - Implement - and also help our clients implement - AI applications with the Neurala SDK 
+  - Optimize the SDK on a variety of platforms using frameworks such as CUDA and OpenCL
+  - https://www.neurala.com/about/careers
+- 9/21/18 Neurala, Inc., Northampton (or Boston), MA - **Full Stack Developer**
+
+  Work with a team on cutting-edge Machine Learning technology! We are looking for a productive SW developer to:
+  - Innovate and further develop the platform, blending AI into a web platform and a user interface
+  - Optimize deployment of the platform on AWS, including databases, load balancing, and cost considerations
+  - Build alerting & monitoring systems
+  - Manage and deploy databases
+  - In production phase, participate in hardening the system to ensure continuous operation
+  - https://www.neurala.com/about/careers
+
+### Template
+- DATE COMPANY LOCATION - **POSITION**
+  - DESCRIPTION
+  - Links
+  
+### Old Postings
 - 3/21/18 The Alchemy Fund, Amherst, MA - **Computer Vision Engineer**
   - Signal processing from a noisy, weak input – e.g. noise reduction, pixel transformation. Work alongside a data scientist, who would process the output signal. Clear and immediate market applications if we can get it working. Would be perfect as project work for a CS graduate student in the field.
   - [More Info / Application Instructions](https://drive.google.com/file/d/0B3ll_mWRP1BvSmUwZzFKbS00SHJWNmV3bjlNQXRJVFA4aXc0/view?usp=sharing)
@@ -25,9 +55,3 @@ This file contains listings for current job openings in western Mass. The positi
 - 3/15/18 Last Call Media, US - **Senior Web Developer**
   - Senior Developers are compensated at a salary commensurate with skill and experience, with comprehensive benefits and varied, engaging work for enterprise-level clients.
   - https://lastcallmedia.com/careers
-
-
-### Template
-- DATE COMPANY LOCATION - **POSITION**
-  - DESCRIPTION
-  - Links
