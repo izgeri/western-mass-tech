@@ -25,10 +25,10 @@ If you work locally and want to add your company to the list here, please fork t
 
   |Topic|Info|
   |-----|----|
-  |Description||
-  |Toolchain||
+  |Description|The industry's first AI-driven predictive analytics platform for discrete manufacturers and machine builders.|
+  |Toolchain|Node.js; React; AWS Kinesis; AWS Lambda|
   |Careers page|https://www.machinemetrics.com/careers|
-  |Local contact||
+  |Local contact|<trevor.morris@machinemetrics.com>|
 
 - Neurala, Inc., Northampton (or Boston), MA
 
