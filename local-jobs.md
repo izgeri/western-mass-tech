@@ -16,10 +16,10 @@ If you work locally and want to add your company to the list here, please fork t
 
   |Topic|Info|
   |-----|----|
-  |Description||
-  |Toolchain||
+  |Description|We build quality in from the start. Bugs don’t pile up, deployments are safe, and infrastructure is always up and running because we stay in sync on a comfortable cadence with plenty of slack and flexibility.|
+  |Toolchain|React, PHP, Docker, Node.js|
   |Careers page|https://lastcallmedia.com/careers|
-  |Local contact||
+  |Local contact|@kellyalb|
   
 - MachineMetrics, Northampton, MA
 
