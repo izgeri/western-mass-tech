@@ -44,10 +44,10 @@ If you work locally and want to add your company to the list here, please fork t
 
   |Topic|Info|
   |-----|----|
-  |Description||
-  |Toolchain||
+  |Description|VidMob is the leading video creation and analytics platform with a network of professional creatives worldwide who produce the full spectrum of video content for the world's brands and advertisers.|
+  |Toolchain|Java; React; Scala; AWS, a lot of it; AI/ML|
   |Careers page|https://www.vidmob.com/careers/|
-  |Local contact||
+  |Local contact|<james@vidmob.com>|
 
 ### Template
 
