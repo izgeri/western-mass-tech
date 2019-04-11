@@ -3,6 +3,15 @@ includes contact information so that you can get in touch if you're job-hunting,
 
 If you work locally and want to add your company to the list here, please fork this repo and submit a PR.
 
+- AthleteReg, Easthampton, MA
+  
+  |Topic|Info|
+  |-----|----|
+  |Description|We're a cycling, running, sking, triathlon, and fundraising event registration platform. Brands include BikeReg, RunReg, SkiReg, TriReg, and PledgeReg. Small team, so members get to wear many hats; front, back, UI/UX, design, security, QA, and more.|
+  |Toolchain|VB ASP.NET, Telerik, HTML5, CSS3, JavaScript/jQuery, MS SQL Server|
+  |Careers page|Bottom of https://www.athletereg.com/about.aspx|
+  |Local contact|ross@athletereg.com|
+
 - CyberArk, Northampton (or Newton), MA
 
   |Topic|Info|
