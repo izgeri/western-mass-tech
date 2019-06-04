@@ -58,6 +58,16 @@ If you work locally and want to add your company to the list here, please fork t
   |Careers page|https://www.vidmob.com/careers/|
   |Local contact|<james@vidmob.com>|
 
+
+- Crossover Health, Remote (offices in San Clemente, CA, but dev manager and another developer work from Northampton area)
+  
+  |Topic|Info|
+  |-----|----|
+  |Description|Help revolutionize patient-focused healthcare!|
+  |Toolchain|TypeScript/JavaScript; ReactJS; Redux; SinatraRB; MySQL|
+  |Careers page|http://crossoverhealth.com/careers/|
+  |Local contact|<peter.johanson@crossoverhealth.com>|
+  
 ### Template
 
 - COMPANY LOCATION
