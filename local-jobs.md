@@ -34,9 +34,9 @@ If you work locally and want to add your company to the list here, please fork t
 
   |Topic|Info|
   |-----|----|
-  |Description|The industry's first AI-driven predictive analytics platform for discrete manufacturers and machine builders.|
-  |Toolchain|Node.js; React; AWS Kinesis; AWS Lambda|
-  |Careers page|https://www.machinemetrics.com/careers|
+  |Description|MachineMetrics is changing how manufacturers around the world engage with machines. Recognized as one of the top IoT companies to watch in 2019, we simplify industrial IoT by helping manufacturers realize real returns within their organizations by enabling them to digitize and drive decisions with machine data.|
+  |Toolchain|Node.js; React; AWS Kinesis; AWS Lambda; TimescaleDB|
+  |Careers page|https://grnh.se/3a27be4f2|
   |Local contact|<trevor.morris@machinemetrics.com>|
 
 - Neurala, Inc., Northampton (or Boston), MA
