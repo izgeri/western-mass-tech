@@ -73,6 +73,7 @@ This file contains links to local tech-related resources.
 - [The Alchemy Fund](http://www.alchemy-fund.com/)
 - [TechSpring](http://www.techspringhealth.org/) - focusing on helping innovators in Health IT
 - [Orange Innovation Center](https://www.orange-innovation.com/)
+- [Kayon Accelerator](https://www.kayonaccelerator.com/)
 
 ### Miscellaneous
 
